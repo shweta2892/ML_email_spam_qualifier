@@ -57,7 +57,6 @@ The dataset used is the **SMS Spam Collection Dataset**, available from:
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/email-spam-classifier.git
 cd email-spam-classifier
 
 2. Install Requirements
